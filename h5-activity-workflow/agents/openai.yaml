@@ -1,0 +1,4 @@
+interface:
+  display_name: "活动工作流"
+  short_description: "策划、原型化并迭代本地 H5 活动 demo。"
+  default_prompt: "使用 $h5-activity-workflow（活动工作流）把这个活动想法整理成策划文档、Figma 原型流程和本地网页 demo 迭代路径。"
