@@ -1,4 +1,4 @@
----
+﻿---
 name: h5-activity-workflow
 description: Use when planning, documenting, prototyping, reviewing, or iterating H5 campaign activities or 活动工作流, especially when the user wants activity mechanics, readiness checks, one-page activity briefs, lightweight/full workflow modes, competitor analysis, product-plan interrogation, activity marketing copy, tracking plans, regression-based effect validation, post-activity reviews, Figma prototypes, local web demos, or annotation feedback.
 ---
